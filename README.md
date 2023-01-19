@@ -16,18 +16,18 @@
 ## Tech stack
 
 <div align="center" width="100%">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/java.svg">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/python.svg">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/cs.svg">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/c++.svg">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/html-5.svg">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/css3.svg">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/js.svg">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/php.svg">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/mysql.svg">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/linux.svg">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/unity.svg">
-	<img width="55" style="background-color: #4944ff; border-radius: 10px; width: 7.75%;" src="/Icons/git.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/java.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/python.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/c-sharp.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/c++.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/html-5.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/css.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/js.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/php.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/mysql.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/linux.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/unity.svg">
+	<img width="55" style="border-radius: 10px; width: 7.75%;" src="/Icons/git.svg">
 </div>
 
 ## Personal Reflection
