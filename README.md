@@ -1,41 +1,27 @@
-# Hello there! I'm Parminder 👋🏽
+# About me
+
+<b><p1> BSc Computer Science graduate with a deep passion in programming, possessing a problem-solving and strong analytical mindset. </p1></b>
+
+<p1> Lack of experience is made up for, thanks to being a quick learner in even the deeper technical problems, alongside the phletora of tools, languages and technologies used throughout University and during programming projects developed in the spare time. </p1>
+
+# Tech stack
 
 <div align="center">
-	<a href="https://github.com/DevPinda"><img align="center" style="width: 9%;" src="https://visitor-badge.laobi.icu/badge?page_id=DevPinda.repoName" alt="Visitor Amounts"></a>
-	<a href="https://www.microsoft.com/en-gb/software-download/windows10"><img align="center" style="width: 11%;" src="https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white" alt="OS"></a>
-	<a href="https://www.github.com/DevPinda?tab=followers"><img align="center" style="width: 10.5%;" src="https://img.shields.io/github/followers/DevPinda.svg?style=social&label=Follow" alt="Display Followers Amounts"/></a>
-	<a href="https://github.com/DevPinda?tab=stars"><img align="center" style="width: 10.25%;" src="https://img.shields.io/github/stars/DevPinda?style=social" alt="Star Amounts"/></a>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<details> <summary> <b> Other Frameworks and Tools </b> </summary>
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
+
 </div>
 
-## About me
+<div align="center">
 
-<b><p1> I'm a Software Engineer 👨‍💻 who enjoys to work on various projects that involve programming of any kind with the use of a large array of Languages, Frameworks and Environments. </p1></b>
+### Connect with me
 
-<p1> Within this webpage, you will find a collection of projects that I have worked on during my free time in university, I have worked on these projects due to my own initivate as I am highly passionate in developing software alongside the improvement of my expertise in working with different technologies. </p1>
+<a href="https://www.linkedin.com/in/parminder-singh-21956022a/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:singh.parminder858@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 
-## Tech stack
-
-<div align="center" width="100%">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/java.svg">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/python.svg">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/c-sharp.svg">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/c++.svg">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/html-5.svg">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/css.svg">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/js.svg">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/php.svg">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/mysql.svg">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/linux.svg">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/unity.svg">
-	<img width="55" style="border-radius: 15%; width: 7.75%;" src="/Icons/git.svg">
 </div>
-
-## Personal Reflection
-
-<p1> As evidenced with the chronological order of the projects, it is made evident that my expertise in programming has vastly improved over time, as I have gained experience in working with different technologies and have become much more confident with them. </p1>
-
-<p1> Going forward, I hope to continue to develop my skills in programming and to continue working on projects that I am passionate about, alonside progressively increasing their complexity as to further challenge myself 😃 </p1><br><br>
-
-| <a href="https://github.com/DevPinda/"><img align="center" src="https://github-readme-stats-eight-gamma-36.vercel.app/api?username=DevPinda&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub Statistics" /></a> | <a href="https://github.com/DevPinda/"><img align="center" width="390" src="https://github-readme-stats-eight-gamma-36.vercel.app/api/top-langs/?username=DevPinda&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
-| <a href="https://github.com/DevPinda/"><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=DevPinda&theme=dark&hide_border=true" alt="Display Streak Image"/></a> | <a href="https://github.com/DevPinda/Projects-Portfolio-Website"><img align="center" width="410" style="height:px;" src="https://github-readme-stats-eight-gamma-36.vercel.app/api/pin/?username=DevPinda&repo=Projects-Portfolio-Website&theme=dark&hide_border=true" /></a>
